@@ -1,6 +1,8 @@
 RedisServiceProvider for Silex
 ==============================
 
+[![Join the chat at https://gitter.im/bladeofsteel/RedisServiceProvider](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bladeofsteel/RedisServiceProvider?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the [Redis](https://github.com/nicolasff/phpredis) service provider for the Silex microframework.
 
 Installation
